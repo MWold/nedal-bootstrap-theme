@@ -1,0 +1,21 @@
+/*
+ Theme Name: nedalbootstrap
+ Theme URI: https://github.com/MWold
+ Description: A theme built for the Nedal architectural project. Based on the tutorial and code found on http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+ Author URI: https://github.com/MWold
+ Version: 1.0
+ Tags: responsive, white, bootstrap, architecture
+
+ License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+ License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+ Them built using the tutorial from http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial based on the simple marketing theme available at www.getbootstrap.com
+ */
+
+@import url('bootstrap/css/bootstrap.css');
+@import url('bootstrap/css/carousel.css'); 
+@import url('bootstrap/css/bootstrap-theme.css');
+body {
+	
+}
+
