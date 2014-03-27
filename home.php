@@ -8,13 +8,14 @@
 			</h2>
 			<p>
 				<em><?php the_time('l, F jS, Y'); ?> </em>
+				<?php the_excerpt(); ?>
 			</p>
 			<hr>
 
 
 			<?php endwhile; else: ?>
 			<p>
-				<?php _e('Sorry, there are no posts.'); ?>
+				<?php _e('Beklager, det finnes ingen poster.'); ?>
 			</p>
 			<?php endif; ?>
 		</div>
